@@ -3,6 +3,7 @@
   "extends": ["config:recommended"],
   "forkProcessing": "enabled",
   "enabledManagers": ["npm"],
+  "commitMessagePrefix": "test1 ",
   "recreateWhen": "always",
   "prConcurrentLimit": 20,
   "prHourlyLimit": 10
