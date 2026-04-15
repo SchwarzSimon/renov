@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "forkProcessing": "enabled",
+  "enabledManagers": ["npm"],
+  "prConcurrentLimit": 20,
+  "prHourlyLimit": 10
+}
