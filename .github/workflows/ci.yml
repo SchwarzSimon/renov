@@ -74,7 +74,7 @@ jobs:
         ports:
           - 5432/tcp
       postgres14:
-        image: postgres:14
+        image: postgres:18
         env:
           POSTGRES_PASSWORD: postgres
         options: >-
