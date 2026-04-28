@@ -1,6 +1,6 @@
 {
   "packageRules": [{
-    "extends": ["github>SchwarzSimon/rrpreset"],
+    "extends": ["github>partacc/renopreset"],
     "matchFiles": ["**/test.json"],
     "draftPR": {
       "extends": [ {
