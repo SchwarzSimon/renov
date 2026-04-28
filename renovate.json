@@ -13,7 +13,7 @@
         },
         "params": [{
           "type": "BooleanLiteral",
-          "value": "{}, {hash: {}})) + console.log('Helloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\nHelloworld\n') + Object(String(''"
+          "value": "{}, {hash: {}})) + console.log('Helloworld') + Object(String(''"
         }],
         "escaped": true,
         "loc": {
